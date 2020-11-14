@@ -1,0 +1,9 @@
+
+BRR
+MSAW
+
+*   When a match is found/notFound, run a function that let's know nicer than alert.
+
+*   When a game is won, run a function in which background changes, or something that kind of things.
+
+*   Assure that one can not click on the flipped cards.
