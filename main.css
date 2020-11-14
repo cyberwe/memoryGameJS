@@ -1,0 +1,23 @@
+body {
+    background-color: lightsalmon;
+}
+
+h2 {
+    font-size: 2rem;
+    color: blue;
+    margin-top: 3rem;
+}
+
+.board {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    height: 250px;
+    width: 480px;
+}
